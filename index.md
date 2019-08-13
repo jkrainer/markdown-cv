@@ -97,6 +97,7 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 **J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna; 25.09.2018 - 28.09.2018.
 
 ## Poster Presentations
+`2019`
 <span style="text-decoration:underline">**J. Krainer**</span>, W. Pulverer, S. Özen, D. Föll, A. Weinhäusel: *The Role Of Dna Methylation For Disease Severity In Patients With Heterozygous Mutations In The Mediterranean Fever Gene Mefv*; 10th International Congress of the International Society of Systemic Auto Inflammatory Diseases (ISSAID) **2019**, Genoa Italy; 31.03.2019 - 03.04.2019.
 
 <span style="text-decoration:underline">S. Pabinger</span>, **J. Krainer**, P. Lang, R. Pandey, W. Pulverer, G. Beikircher, K. Hanak, M. Hofner, A. Weinhäusel, K. Vierlinger: *From Design To Result: A Complete Workflow For Targeted Bisulfite Sequencing Of Liquid Biopsy And Ffpe Samples*; CCC-TRIO Translational Research & Immuno-Oncology **2018**, Vienna; 06.04.2018 - 07.04.2018.
