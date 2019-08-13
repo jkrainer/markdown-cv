@@ -88,7 +88,7 @@ Seminar "Sicherheit in der Gentechnik" ("Safety in genetical engineering") accor
 
 
 ## Publications
-**Julie Krainer**, Andreas Weinhäusel, Karel Hanak, Walter Pulverer, Seza Özen, Klemens Vierlinger, Stephan Pabinger. *EPIC-TABSAT: analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies*. Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W166–W170, <a href="https://doi.org/10.1093/nar/gkz398">https://doi.org/10.1093/nar/gkz398</a> 
+**Julie Krainer**, Andreas Weinhäusel, Karel Hanak, Walter Pulverer, Seza Özen, Klemens Vierlinger, Stephan Pabinger. _EPIC-TABSAT: analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies_. Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W166–W170, <a href="https://doi.org/10.1093/nar/gkz398">https://doi.org/10.1093/nar/gkz398</a> 
 
 Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Pattern and Distribution of Induced Mutations in J. curcas Using Reduced Representation Sequencing*. Frontiers in Plant Science, Volume 9, 2018. Pages 524, <a href="https://doi.org/10.3389/fpls.2018.00524">https://doi.org/10.3389/fpls.2018.00524</a>
 
@@ -107,7 +107,7 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 
 <span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, A. Weinhäusel, K. Vierlinger: *A user-friendly tool to create class prediction models and multivariate classification of patients*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
 
-<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, K. Ernst, A. Weinhäusel, K. Vierlinger: *Software tool to analyze and visualize targeted bisulfite sequencing data*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
+<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, K. Ernst, A. Weinhäusel, K. Vierlinger: *Software tool to analyze and visualize targeted bisulfite sequencing data*; EMBO \| EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
 
 <span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn; 19.09.2017.
 
