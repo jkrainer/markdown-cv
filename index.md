@@ -88,22 +88,28 @@ Seminar "Sicherheit in der Gentechnik" ("Safety in genetical engineering") accor
 
 
 ## Publications
-1.	**Julie Krainer**, Andreas Weinhäusel, Karel Hanak, Walter Pulverer, Seza Özen, Klemens Vierlinger, Stephan Pabinger. *EPIC-TABSAT: analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies*. Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W166–W170, <a href="https://doi.org/10.1093/nar/gkz398">https://doi.org/10.1093/nar/gkz398</a> 
-2.	Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Pattern and Distribution of Induced Mutations in J. curcas Using Reduced Representation Sequencing*. Frontiers in Plant Science, Volume 9, 2018. Pages 524, <a href="https://doi.org/10.3389/fpls.2018.00524">https://doi.org/10.3389/fpls.2018.00524</a>
+**Julie Krainer**, Andreas Weinhäusel, Karel Hanak, Walter Pulverer, Seza Özen, Klemens Vierlinger, Stephan Pabinger. *EPIC-TABSAT: analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies*. Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W166–W170, <a href="https://doi.org/10.1093/nar/gkz398">https://doi.org/10.1093/nar/gkz398</a> 
+
+Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Pattern and Distribution of Induced Mutations in J. curcas Using Reduced Representation Sequencing*. Frontiers in Plant Science, Volume 9, 2018. Pages 524, <a href="https://doi.org/10.3389/fpls.2018.00524">https://doi.org/10.3389/fpls.2018.00524</a>
 
 
 ## Oral Presentations
-1.	**J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna; 25.09.2018 - 28.09.2018.
+**J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna; 25.09.2018 - 28.09.2018.
 
 ## Poster Presentations
-1.	<span style="text-decoration:underline">**J. Krainer**</span>, W. Pulverer, S. Özen, D. Föll, A. Weinhäusel: *The Role Of Dna Methylation For Disease Severity In Patients With Heterozygous Mutations In The Mediterranean Fever Gene Mefv*; 10th International Congress of the International Society of Systemic Auto Inflammatory Diseases (ISSAID) **2019**, Genoa Italy; 31.03.2019 - 03.04.2019.
-2.	<span style="text-decoration:underline">S. Pabinger</span>, **J. Krainer**, P. Lang, R. Pandey, W. Pulverer, G. Beikircher, K. Hanak, M. Hofner, A. Weinhäusel, K. Vierlinger: *From Design To Result: A Complete Workflow For Targeted Bisulfite Sequencing Of Liquid Biopsy And Ffpe Samples*; CCC-TRIO Translational Research & Immuno-Oncology **2018**, Vienna; 06.04.2018 - 07.04.2018.
-3.	<span style="text-decoration:underline">**J. Krainer**</span>, S. Schönthaler, S. Siebenhandel, A. Weinhäusel, M. Gattorno, F. Penco, I. Gueli: 
-*Study of 92 serological biomarkers in system auto-inflammatory diseases*; 10th ÖGMBT Annual Meeting **2018**; Ten years Life, Science & Molecules, Vienna; 17.09.2018 - 20.09.2018.
-4.	**J. Krainer**, <span style="text-decoration:underline">W. Pulverer</span>, S. Schönthaler, G. Beikircher, K. Hanak, D. Föll, S. Ozen, M. Gattorno, A. Weinhäusel: *The Role Of DNA Methylation In Systemic Auto-Inflammatory Diseases With Familial Mediterranean Fever As A Model Disease*; CLEPSO annual meeting **2018**, Düsseldorf; 08.03.2018 - 09.03.2018.
-5.	<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, A. Weinhäusel, K. Vierlinger: *A user-friendly tool to create class prediction models and multivariate classification of patients*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
-6.	<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, K. Ernst, A. Weinhäusel, K. Vierlinger: *Software tool to analyze and visualize targeted bisulfite sequencing data*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
-7.	<span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn; 19.09.2017.
+<span style="text-decoration:underline">**J. Krainer**</span>, W. Pulverer, S. Özen, D. Föll, A. Weinhäusel: *The Role Of Dna Methylation For Disease Severity In Patients With Heterozygous Mutations In The Mediterranean Fever Gene Mefv*; 10th International Congress of the International Society of Systemic Auto Inflammatory Diseases (ISSAID) **2019**, Genoa Italy; 31.03.2019 - 03.04.2019.
+
+<span style="text-decoration:underline">S. Pabinger</span>, **J. Krainer**, P. Lang, R. Pandey, W. Pulverer, G. Beikircher, K. Hanak, M. Hofner, A. Weinhäusel, K. Vierlinger: *From Design To Result: A Complete Workflow For Targeted Bisulfite Sequencing Of Liquid Biopsy And Ffpe Samples*; CCC-TRIO Translational Research & Immuno-Oncology **2018**, Vienna; 06.04.2018 - 07.04.2018.
+
+<span style="text-decoration:underline">**J. Krainer**</span>, S. Schönthaler, S. Siebenhandel, A. Weinhäusel, M. Gattorno, F. Penco, I. Gueli: *Study of 92 serological biomarkers in system auto-inflammatory diseases*; 10th ÖGMBT Annual Meeting **2018**; Ten years Life, Science & Molecules, Vienna; 17.09.2018 - 20.09.2018.
+
+**J. Krainer**, <span style="text-decoration:underline">W. Pulverer</span>, S. Schönthaler, G. Beikircher, K. Hanak, D. Föll, S. Ozen, M. Gattorno, A. Weinhäusel: *The Role Of DNA Methylation In Systemic Auto-Inflammatory Diseases With Familial Mediterranean Fever As A Model Disease*; CLEPSO annual meeting **2018**, Düsseldorf; 08.03.2018 - 09.03.2018.
+
+<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, A. Weinhäusel, K. Vierlinger: *A user-friendly tool to create class prediction models and multivariate classification of patients*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
+
+<span style="text-decoration:underline">**J. Krainer**</span>, S. Pabinger, W. Pulverer, K. Ernst, A. Weinhäusel, K. Vierlinger: *Software tool to analyze and visualize targeted bisulfite sequencing data*; EMBO | EMBL Symposium: From Single- to Multiomics **2017**, Heidelberg; 12.11.2017 - 14.11.2017.
+
+<span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn; 19.09.2017.
 
 Last updated: August 2019
 
