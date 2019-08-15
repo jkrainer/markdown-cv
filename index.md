@@ -5,10 +5,13 @@ title: Julie Krainer's CV
 # Julie Krainer
 
 ## Currently
+Currently I am working at the Austrian Institute of Technology (AIT) in the Molecular Diagnostic group as a doctoral fellow. My main project is called INSAID (<a href="http://www.erare.eu/financed-projects/insaid"> http://www.erare.eu/financed-projects/insaid </a>). It is an international project with seven partners in Europe. The focus of the project are the highly heterogeneous monogenic or multifactorial systemic auto-inflammatory diseases. The AIT is responsible for Epigenetics, Immunomics and Proteomics. The main part of my work is experimental design and data analysis of said experiments. The INSAID project gives me the great opportunity to work with different biological data.
 
-### Specialized in
+Apart from that, I also contribute to other projects of the bioinformatics group at the AIT. One example are the visualizations and enhancements of the web-tool <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0160227">TABSAT</a>, an analysis tool for targeted bisulfite sequencing.
+
 
 ### Research interests
+Bioinformatics, Data analysis (Microarray, NGS), Molecular Diagnostics, Epigenetics, Visualizations
 
 ## Education
 `09/2017 – recent`
@@ -112,5 +115,3 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 <span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn; 19.09.2017.
 
 Last updated: August 2019
-
-
