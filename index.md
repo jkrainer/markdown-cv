@@ -97,10 +97,14 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 
 
 ## Oral Presentations
+**J. Krainer**, S. Siebenhandl, S. Schönthaler, S. Nagy, S. Pabinger, S. Özen, D. Foell, M. Gattorno, A. Weinhäusel. *Immunomics profiling of patients with systemic autoinflammatory diseases using protein microarrays*. 11th ÖGMBT Annual Meeting **2019**; Inside the World of Biomolecules, Salzburg; 16.09.2019 - 18.09.2019.
+
 **J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna; 25.09.2018 - 28.09.2018.
 
 ## Poster Presentations
-<span style="text-decoration:underline">**J. Krainer**</span>, W. Pulverer, S. Özen, D. Föll, A. Weinhäusel: *The Role Of DNA Methylation For Disease Severity In Patients With Heterozygous Mutations In The Mediterranean Fever Gene Mefv*; 10th International Congress of the International Society of Systemic Auto Inflammatory Diseases (ISSAID) **2019**, Genoa Italy; 31.03.2019 - 03.04.2019.
+**J. Krainer**, S. Siebenhandl, S. Schönthaler, S. Nagy, S. Pabinger, S. Özen, D. Foell, M. Gattorno, <span style="text-decoration:underline">A. Weinhäusel</span>: *Immunomics profiling of patients with systemic autoinflammatory diseases using protein microarrays*; 14th Dresden Symposium on Autoantibodies **2019**, Dresden, Germany; 10.09.2019 - 13.09.2019.
+
+<span style="text-decoration:underline">**J. Krainer**</span>, W. Pulverer, S. Özen, D. Föll, A. Weinhäusel: *The Role Of DNA Methylation For Disease Severity In Patients With Heterozygous Mutations In The Mediterranean Fever Gene Mefv*; 10th International Congress of the International Society of Systemic Auto Inflammatory Diseases (ISSAID) **2019**, Genoa, Italy; 31.03.2019 - 03.04.2019.
 
 <span style="text-decoration:underline">S. Pabinger</span>, **J. Krainer**, P. Lang, R. Pandey, W. Pulverer, G. Beikircher, K. Hanak, M. Hofner, A. Weinhäusel, K. Vierlinger: *From Design To Result: A Complete Workflow For Targeted Bisulfite Sequencing Of Liquid Biopsy And Ffpe Samples*; CCC-TRIO Translational Research & Immuno-Oncology **2018**, Vienna; 06.04.2018 - 07.04.2018.
 
@@ -114,4 +118,4 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 
 <span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn; 19.09.2017.
 
-Last updated: August 2019
+Last updated: September 2019
