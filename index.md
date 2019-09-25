@@ -33,6 +33,7 @@ Master’s program Anthropology at the University of Vienna, Austria
 
 `06/2012` 	
 **Degree as Bachelor of Science (2,24)**
+
 `03/2007 – 06/2012`
 Bachelor’s program Biology at the University of Vienna, Austria
 Specification: Anthropology
