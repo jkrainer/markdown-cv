@@ -42,6 +42,7 @@ Bachelor thesis:
 der Csokorgasse"
 
 `09/2005 – 02/2007` 	School for electronic data processing and organisation, Spengergasse 20, 1050 Vienna, Austria (not completed)
+
 `06/2005` 	University-entrance diploma. Secondary-school, Auf der Schmelz 4, 1150 Vienna, Austria
 	
 ## Working Experience
