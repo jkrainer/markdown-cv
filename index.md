@@ -97,9 +97,11 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 
 
 ## Oral Presentations
-**J. Krainer**, S. Siebenhandl, S. Schönthaler, S. Nagy, S. Pabinger, S. Özen, D. Foell, M. Gattorno, A. Weinhäusel. *Immunomics profiling of patients with systemic autoinflammatory diseases using protein microarrays*. 11th ÖGMBT Annual Meeting **2019**; Inside the World of Biomolecules, Salzburg; 16.09.2019 - 18.09.2019.
+**J. Krainer**, W. Pulverer, S. Özen, D. Foell, A. Weinhäusel. *The role of DNA methylation in FMF patients with heterozygous mutations in the Mediterranean Fever Gene MEFV*. 19th ÖGH Annual Meeting **2019**; Salzburg, Austria; 04.10.2019.
 
-**J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna; 25.09.2018 - 28.09.2018.
+**J. Krainer**, S. Siebenhandl, S. Schönthaler, S. Nagy, S. Pabinger, S. Özen, D. Foell, M. Gattorno, A. Weinhäusel. *Immunomics profiling of patients with systemic autoinflammatory diseases using protein microarrays*. 11th ÖGMBT Annual Meeting **2019**; Inside the World of Biomolecules, Salzburg, Austria; 16.09.2019 - 18.09.2019.
+
+**J. Krainer**, M. Hofner, W. Pulverer, A. Weinhäusel, K. Vierlinger, S. Pabinger. *Integrated whole-genome and targeted DNA methylation analysis with EPIC-TABSAT*. German Conference on Bioinformatics **2018**, Vienna, Austria; 25.09.2018 - 28.09.2018.
 
 ## Poster Presentations
 **J. Krainer**, S. Siebenhandl, S. Schönthaler, S. Nagy, S. Pabinger, S. Özen, D. Foell, M. Gattorno, <span style="text-decoration:underline">A. Weinhäusel</span>: *Immunomics profiling of patients with systemic autoinflammatory diseases using protein microarrays*; 14th Dresden Symposium on Autoantibodies **2019**, Dresden, Germany; 10.09.2019 - 13.09.2019.
