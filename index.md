@@ -92,6 +92,10 @@ Seminar "Sicherheit in der Gentechnik" ("Safety in genetical engineering") accor
 
 
 ## Publications
+**Julie Krainer**, Sandra Siebenhandl, Andreas Weinhäusel. _Systemic autoinflammatory diseases_. Journal of Autoimmunity, Volume 109, May 2020, 102421, <a href="https://doi.org/10.1016/j.jaut.2020.102421">https://doi.org/10.1016/j.jaut.2020.102421</a>
+
+Fernanda Wisnieski, Leonardo Caires Santos, Danielle Queiroz Calcagno, Jaqueline Cruz Geraldis, Carolina Oliveira Gigek, Ana Carolina Anauate, Elizabeth Suchi Chen, Lucas Trevizani Rasmussen, Spencer Luiz Marques Payão, Ricardo Artigiani, Samia Demachki, Paulo Pimentel Assumpção, Laercio Gomes Lourenço, Carlos Haruo Arasaki, Stephan Pabinger, **Julie Krainer**, Mariana Ferreira Leal, Rommel Rodriguez Burbano & Marilia Arruda Cardoso Smith. _The impact of DNA demethylation on the upregulation of the NRN1 and TNFAIP3 genes associated with advanced gastric cancer_. Journal of Molecular Medicine, 2020, <a href="https://doi.org/10.1007/s00109-020-01902-1">https://doi.org/10.1007/s00109-020-01902-1</a>
+
 **Julie Krainer**, Andreas Weinhäusel, Karel Hanak, Walter Pulverer, Seza Özen, Klemens Vierlinger, Stephan Pabinger. _EPIC-TABSAT: analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies_. Nucleic Acids Research, Volume 47, Issue W1, 02 July 2019, Pages W166–W170, <a href="https://doi.org/10.1093/nar/gkz398">https://doi.org/10.1093/nar/gkz398</a> 
 
 Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Pattern and Distribution of Induced Mutations in J. curcas Using Reduced Representation Sequencing*. Frontiers in Plant Science, Volume 9, 2018. Pages 524, <a href="https://doi.org/10.3389/fpls.2018.00524">https://doi.org/10.3389/fpls.2018.00524</a>
@@ -121,4 +125,4 @@ Fatemeh Maghuly, Stephan Pabinger, **Julie Krainer**, Margit Laimer. *The Patter
 
 <span style="text-decoration:underline">W. Pulverer</span>, S. Pabinger, M. Hofner, K. Vierlinger, S. Schönthaler, G. Beikircher, P. Lang, **J. Krainer**, A. Weinhäusel: *Epigenomics - Validation strategies for DNA methylation signatures*; Life and Brain **2017**, Bonn, Germany; 19.09.2017.
 
-Last updated: October 2019
+Last updated: April 2020
